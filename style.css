@@ -20,11 +20,13 @@
 
 .user {
 	border-radius:50%;
-	border-style:round
+	border-style:round;
 }
 .Apps{
 	padding-left:5px;
-	padding-left:5x;
+    padding-left:5x;
+    border-radius:50%;
+	border-style:round;
 }
 .googleimage{
     position:relative;
